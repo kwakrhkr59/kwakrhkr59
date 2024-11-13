@@ -2,16 +2,6 @@
 
 <div style="display: flex">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kwakhj0205" alt="Badge" style="margin-left: 15px; max-width: 50px;">
-<div>
-<h3>Ewha Womans University</h3>
-<ul>
-<li>March 2021 ~</li>
-<li>Bachelor of Science</li>
-<li>Major in Computer Science & Engineering</li>
-<li>Double Major in Mathematics</li>
-</ul>
-</div>
-
 </div>
 
 ## 💻 Stack
