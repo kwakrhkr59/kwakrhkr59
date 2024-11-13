@@ -1,8 +1,8 @@
 # KWAK HYEONJEONG ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwakrhkr59&count_bg=%23BDFEFF&title_bg=%2377E7E9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-<div style="display: flex">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kwakhj0205" alt="Badge" style="margin-left: 15px; max-width: 50px;">
-</div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwakhj0205)](https://solved.ac/kwakhj0205)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwakrhkr59)
 
 ## 💻 Stack
 
@@ -30,7 +30,7 @@
 
 ## 📚 Paper
 
-- DeepCoAST: Unveiling Split Trace Correlation to Counter Traffic Splitting Defense, IEEE Access, 2024
+- [DeepCoAST: Unveiling Split Trace Correlation to Counter Traffic Splitting Defense](https://ieeexplore.ieee.org/document/10737061), IEEE Access, 2024
 - 딥러닝 기반 분할 데이터 상관관계 탐지를 통한 WF 방어 모델의 취약점 탐색, 한국정보보호학회 영남지부 학술대회, 2023
 
 ## 🏆 Prize
