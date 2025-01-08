@@ -24,8 +24,9 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 
-## 💼 Career
+## 💼 Experience
 
+- 2024.12.~: SKT FLY AI Challenger 6기
 - 2022.7.~2024.2.: 이화여자대학교 AISec 학부생 인턴
 
 ## 📚 Paper
@@ -35,6 +36,7 @@
 
 ## 🏆 Prize
 
+- 2024 인공지능대학 프로그래밍 경진대회 대상
 - 이화여자대학교 교내 프로그래밍 대회 E-PPER 22회 대상
 - 2023 한국정보보호학회 영남지부 학술대회 학회장상
 - 신촌 연합 대학 프로그래밍 대회 SUAPC 2023 Summer 학교 1등상
