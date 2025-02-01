@@ -13,7 +13,7 @@
 
 ## 💻 Stack
 
-### AI / ML
+### AI / ML / DL
 <div>
 <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
