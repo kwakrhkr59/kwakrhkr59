@@ -1,5 +1,6 @@
-# KWAK HYEONJEONG ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwakrhkr59&count_bg=%23BDFEFF&title_bg=%2377E7E9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-<!--
+# KWAK HYEONJEONG <a href="https://solved.ac/kwakhj0205"><img src="https://static.solved.ac/tier_small/19.svg" width="20" /></a> ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwakrhkr59&count_bg=%23BDFEFF&title_bg=%2377E7E9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false) 
+
+<!-- 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwakhj0205)](https://solved.ac/kwakhj0205)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwakrhkr59)
