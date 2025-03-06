@@ -8,7 +8,7 @@
 
 ## 💼 Experience
 
-- 2024.12.~2025.2.: SKT FLY AI Challenger 6기 [➡️ 포스터 보기](https://skttechacademy.com/student/flyAi/flyAiProjectReviewDetail)
+- 2024.12.~2025.2.: SKT FLY AI Challenger 6기 [➡️ 전체 포스터 보기](https://skttechacademy.com/nonmember/flyAi/flyAiProjectReviewList) [➡️ 패기 3팀 포스터 보기](https://skttechacademy.com/nonmember/flyAi/flyAiProjectReviewDetail)
 - 2022.7.~2024.2.: 이화여자대학교 AISec 학부생 인턴
 
 ## 💻 Stack
