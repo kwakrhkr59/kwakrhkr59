@@ -1,5 +1,5 @@
 # KWAK HYEONJEONG <a href="https://solved.ac/kwakhj0205"><img src="https://static.solved.ac/tier_small/19.svg" width="20" /></a>
-<a href="mailto:kwakrhkr59@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"></a> <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"></a> ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwakrhkr59&count_bg=%23BDFEFF&title_bg=%2377E7E9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+<a href="mailto:kwakrhkr59@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"></a> <a href="[https://linkedin.com/in/yourlinkedi](https://www.linkedin.com/in/hyeonjeong-kwak-528048265/)n"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"></a> ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwakrhkr59&count_bg=%23BDFEFF&title_bg=%2377E7E9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 <!-- 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwakhj0205)](https://solved.ac/kwakhj0205)
