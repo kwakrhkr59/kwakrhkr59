@@ -9,6 +9,7 @@
 
 ## 💼 Experience
 
+- **KAIST SAILab KAIRI 하계 인턴** (2025.6.~2025.8.)
 - **SKT FLY AI Challenger 6기** (2024.12.~2025.2.) [➡️ 전체 포스터 보기](https://skttechacademy.com/nonmember/flyAi/flyAiProjectReviewList) [➡️ 패기 3팀 포스터 보기](https://skttechacademy.com/nonmember/flyAi/flyAiProjectReviewDetail)
 - **이화여자대학교 AISec 학부생 인턴** (2022.7.~2024.2.)
 
@@ -49,6 +50,7 @@
 
 ## 📚 Publications
 
+- StarPrint: 스타링크 취약점 분석 및 트랜스포머 기반 웹사이트 핑거프린팅 공격, 한국정보보호학회 하계학술대회, 2025
 - [DeepCoAST: Unveiling Split Trace Correlation to Counter Traffic Splitting Defense](https://ieeexplore.ieee.org/document/10737061), IEEE Access, 2024
 - 딥러닝 기반 분할 데이터 상관관계 탐지를 통한 WF 방어 모델의 취약점 탐색, 한국정보보호학회 영남지부 학술대회, 2023
 
