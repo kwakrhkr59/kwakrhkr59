@@ -13,7 +13,11 @@
 
 ---
 
-### 🛠️ My Tech Stack
+
+<details>
+<summary><h3>🛠️ My Tech Stack</h3></summary>
+<div markdown="1">
+  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -22,14 +26,20 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
+</div>
+</details>
 
-### 🚀 Experience
+<details>
+<summary><h3>🚀 Experience</h3></summary>
+<div markdown="1">
+
 - **Research Intern** @ KAIST SAILab (2025)
 - **Bootcamp** @ SKT FLY AI Challenger (2024–2025)
 - **Research Intern** @ Ewha Womans Univ. AISec Lab (2022–2024)
 
----
+</div>
+</details>
+
 
 <details>
 <summary><h3>📚 My Publications</h3></summary>
