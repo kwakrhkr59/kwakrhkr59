@@ -6,8 +6,7 @@
 ---
 
 ## 👩🏻‍💻 About Me
-Undergraduate student in Computer Science with research interests in  
-**AI security and Explainable AI (XAI)**.  
+Undergraduate student in Computer Science with research interests in **AI security and Explainable AI (XAI)**.  
 I enjoy exploring vulnerabilities in AI/ML models and explaining them.
 
 ---
