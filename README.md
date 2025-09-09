@@ -35,6 +35,7 @@
 
 ### 🏆 Awards & Honors
 
+- Best Paper Award, KIISC Summer Conference (2025)
 - Grand Prize, AI University Programming Contest (2024)
 - Grand Prize, Ewha Univ. Programming Contest (E-PPER 22nd)
 - Best Paper Award, KIISC Youngnam Conference (2023)
