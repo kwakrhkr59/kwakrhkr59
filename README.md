@@ -29,16 +29,16 @@
 
 ### 📚 My Publications
 
-- *StarPrint: Vulnerability Analysis of Starlink and Transformer-based Website Fingerprinting Attack*, KIISC, 2025
+- *StarPrint: Traffic Vulnerability Analysis of Starlink and Transformer-Based Website Fingerprinting Attack*, KIISC, 2025
 - *DeepCoAST: Unveiling Split Trace Correlation to Counter Traffic Splitting Defense*, IEEE Access, 2024
-- *Weaknesses of WF Defense via Deep Learning-based Split Data Correlation Detection*, KIISC, 2023
+- *Exploring Vulnerabilities in Fingerprinting Defense Models Using Data Splitting Technique via Deep Learning Based Correlation Detection*, KIISC, 2023
 
 ### 🏆 Awards & Honors
 
-- Best Paper Award, KIISC Summer Conference (2025)
+- Distinguished Paper Award, KIISC Summer Conference (2025)
 - Grand Prize, AI University Programming Contest (2024)
 - Grand Prize, Ewha Univ. Programming Contest (E-PPER 22nd)
-- Best Paper Award, KIISC Youngnam Conference (2023)
+- Distinguished Paper Award, KIISC Youngnam Conference (2023)
 
 ---
 
