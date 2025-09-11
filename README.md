@@ -4,9 +4,8 @@
   
 ### AI/ML Researcher focused on Security and Explainability
 
-<a href="mailto:kwakrhkr59@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/hyeonjeong-kwak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://solved.ac/kwakhj0205"><img src="https://img.shields.io/badge/solved.ac-19%20tier-0077B5?style=for-the-badge&logo=solved.ac&logoColor=white"></a>
+<a href="mailto:kwakrhkr59@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/hyeonjeong-kwak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
 
 </div>
 
