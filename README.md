@@ -22,9 +22,9 @@
 
 ### 🚀 Experiences
   
-- **Research Intern** @ KAIST SAILab (2025~)
-- **Bootcamp** @ SKT FLY AI Challenger (2024–2025)
-- **Research Intern** @ Ewha Womans Univ. AISec Lab (2022–2024)
+- **Research Intern** @ KAIST SAILab (2025.6~2025.12)
+- **Bootcamp** @ SKT FLY AI Challenger (2024.12–2025.2)
+- **Research Intern** @ Ewha Womans Univ. AISec Lab (2022.7–2024.2)
 
 ### 📚 My Publications
 
