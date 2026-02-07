@@ -3,6 +3,9 @@
 # 👋 Hi, I'm Hyeonjeong!
   
 ### AI/ML Researcher focused on Security and Explainability
+> I study how machine learning models fail under adversarial settings  
+> and how explainability can make them more trustworthy.
+
 
 <a href="mailto:kwakrhkr59@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/hyeonjeong-kwak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
@@ -21,10 +24,11 @@
 </p>
 
 ### 🚀 Experiences
-  
-- **Research Intern** @ KAIST SAILab (2025.6~2025.12)
-- **Bootcamp** @ SKT FLY AI Challenger (2024.12–2025.2)
-- **Research Intern** @ Ewha Womans Univ. AISec Lab (2022.7–2024.2)
+
+- **Intern** @ Industrial Bank of Korea (2026.1–2026.2)
+- **Research Intern** @ KAIST SAILab (2025.6–2025.12)
+- **Bootcamp** @ SKT FLY AI Challenger (2024.12–2025.2)  
+- **Research Intern** @ Ewha Womans Univ. AISec Lab (2022.7–2024.2)  
 
 ### 📚 My Publications
 
